@@ -1,0 +1,4 @@
+text_normalization_project/__pycache__/
+text_normalization_project/*.pic
+text_normalization_project/build/
+text_normalization_project/*.egg-info/
